@@ -1,0 +1,15 @@
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.deps.json
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.dll
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\ref\CafeMenuApp.dll
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.pdb
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\MenuListPage.xaml.g.cs
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfo.cs
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.dll
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\ref\CafeMenuApp.dll
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.pdb
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+D:\OakAcademyProjects\CafeMenuApp\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\OrderListPage.xaml.g.cs

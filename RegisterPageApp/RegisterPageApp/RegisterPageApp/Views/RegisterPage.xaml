@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RegisterPageApp.Views.RegisterPage"
+             Title="Registration"
+             Padding="50">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="entryFirstName" Placeholder="First Name" Keyboard="Text"/>
+            <Entry x:Name="entryLastName" Placeholder="Last Name" Keyboard="Text"/>
+            <Entry x:Name="entryPassword" Placeholder="Password" IsPassword="True"/>
+            <Entry x:Name="entryAge" Placeholder="Age" Keyboard="Numeric"></Entry>
+            <Picker x:Name="pickerGender" Title="Gender" FontSize="Large">
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry x:Name="entryEmail" Placeholder="Email" Keyboard="Email"/>
+            <Entry x:Name="entryPhone" Placeholder="Phone Number" Keyboard="Telephone"/>
+
+            <CheckBox CheckedChanged="CheckBox_CheckedChanged" 
+                      VerticalOptions="EndAndExpand"></CheckBox>
+            <Label Text="I agree to the Terms and Conditions" TextColor="Black"></Label>
+
+            <Button x:Name="btnSubmit" Text="Submit" Clicked="Button_Clicked"
+                    TextColor="White" BackgroundColor="Green" IsEnabled="False"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

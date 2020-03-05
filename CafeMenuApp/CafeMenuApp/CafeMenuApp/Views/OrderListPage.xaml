@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CafeMenuApp.Views.OrderListPage"
+             Title="Order List">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="lstViewOrder" ItemsSource="{Binding .}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="10">
+                                <Label Text="{Binding Name}" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand"
+                                       FontSize="Large"/>
+                                <Entry Text="{Binding Count}" Keyboard="Numeric" Placeholder="Count" HorizontalTextAlignment="Center"/>
+                            </StackLayout>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Delete" Clicked="MenuItem_Clicked" CommandParameter="{Binding .}"/>
+                            </ViewCell.ContextActions>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Order" FontSize="Large" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

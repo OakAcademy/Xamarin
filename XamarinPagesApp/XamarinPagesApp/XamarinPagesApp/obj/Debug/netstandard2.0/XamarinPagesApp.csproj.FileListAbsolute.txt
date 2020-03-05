@@ -1,0 +1,17 @@
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\bin\Debug\netstandard2.0\XamarinPagesApp.deps.json
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\bin\Debug\netstandard2.0\XamarinPagesApp.dll
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\bin\Debug\netstandard2.0\XamarinPagesApp.pdb
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyContentPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.dll
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\XamarinPagesApp.pdb
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyNavigationPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyTabbedPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyMasterDetailPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyMasterDetailPageDetail.xaml.g.cs
+D:\OakAcademyProjects\XamarinPagesApp\XamarinPagesApp\XamarinPagesApp\obj\Debug\netstandard2.0\Views\MyMasterDetailPageMaster.xaml.g.cs

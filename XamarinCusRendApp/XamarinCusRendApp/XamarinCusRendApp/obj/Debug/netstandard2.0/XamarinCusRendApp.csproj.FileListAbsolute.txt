@@ -1,0 +1,13 @@
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\bin\Debug\netstandard2.0\XamarinCusRendApp.deps.json
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\bin\Debug\netstandard2.0\XamarinCusRendApp.dll
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\bin\Debug\netstandard2.0\ref\XamarinCusRendApp.dll
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\bin\Debug\netstandard2.0\XamarinCusRendApp.pdb
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamarinCusRendApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamarinCusRendApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamarinCusRendApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamarinCusRendApp.dll
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\ref\XamarinCusRendApp.dll
+D:\OakAcademyProjects\XamarinCusRendApp\XamarinCusRendApp\XamarinCusRendApp\obj\Debug\netstandard2.0\XamarinCusRendApp.pdb

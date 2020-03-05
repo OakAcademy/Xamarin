@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinListViewApp.Views.ListPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar Placeholder="Search Person" TextChanged="SearchBar_TextChanged"></SearchBar>
+            
+            <ListView x:Name="listView" ItemSelected="listView_ItemSelected" ItemsSource="{Binding .}" Footer="{Binding .}"
+                      IsPullToRefreshEnabled="True" Refreshing="listView_Refreshing">
+
+                <ListView.Header>
+                    <ContentView Padding="10" BackgroundColor="MidnightBlue">
+                        <Label Text="Person List" HorizontalTextAlignment="Center" FontSize="Large" TextColor="White"></Label>
+                    </ContentView>
+                </ListView.Header>
+                
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" Detail="{Binding Age}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+                <ListView.FooterTemplate>
+                    <DataTemplate>
+                        <ContentView Padding="10">
+                            <Label Text="{Binding Count, StringFormat='{0} person'}" 
+                                   HorizontalTextAlignment="Center" FontSize="Medium" TextColor="Black"></Label>
+                        </ContentView>
+                    </DataTemplate>
+                </ListView.FooterTemplate>
+                
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

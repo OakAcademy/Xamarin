@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinPagesApp.Views.MyNavigationPage"
+             Title="Navigation Page">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Order="Primary" Clicked="ToolbarItem_Clicked"/>
+        <ToolbarItem Text="Update" Order="Secondary"/>
+        <ToolbarItem Text="Delete" Order="Secondary"/>
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="My Navigation Page" FontSize="30"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

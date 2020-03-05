@@ -1,0 +1,12 @@
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\bin\Debug\netstandard2.0\RegisterPageApp.deps.json
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\bin\Debug\netstandard2.0\RegisterPageApp.dll
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\bin\Debug\netstandard2.0\RegisterPageApp.pdb
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.AssemblyInfo.cs
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.dll
+D:\OakAcademyProjects\RegisterPageApp\RegisterPageApp\RegisterPageApp\obj\Debug\netstandard2.0\RegisterPageApp.pdb

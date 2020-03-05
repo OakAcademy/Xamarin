@@ -1,0 +1,12 @@
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\bin\Debug\netstandard2.0\XamarinPopupsApp.deps.json
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\bin\Debug\netstandard2.0\XamarinPopupsApp.dll
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\bin\Debug\netstandard2.0\XamarinPopupsApp.pdb
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.dll
+D:\OakAcademyProjects\XamarinPopupsApp\XamarinPopupsApp\XamarinPopupsApp\obj\Debug\netstandard2.0\XamarinPopupsApp.pdb

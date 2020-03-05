@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinElementsApp.Views.ElementsPage3">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Image x:Name="image" Source="OakAcademy.png" Aspect="AspectFit" HeightRequest="100"/>
+            <Picker Title="Select Size" TitleColor="Red" 
+                    SelectedIndexChanged="Picker_SelectedIndexChanged">
+                <Picker.Items>
+                    <x:String>50</x:String>
+                    <x:String>100</x:String>
+                    <x:String>150</x:String>
+                    <x:String>200</x:String>
+                </Picker.Items>
+            </Picker>
+            <DatePicker x:Name="datePicker" Format="dd/MM/yyyy dddd"></DatePicker>
+            <TimePicker></TimePicker>
+            <ActivityIndicator x:Name="activityIndicator" Color="Blue" IsRunning="True"></ActivityIndicator>
+            <WebView Source="https://oakacademy.uk" VerticalOptions="FillAndExpand" Navigating="WebView_Navigating"
+                     Navigated="WebView_Navigated"></WebView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginPageApp.MainPage" SizeChanged="ContentPage_SizeChanged">
+
+    <Grid x:Name="gridMain" RowSpacing="0" ColumnSpacing="0" Padding="50,25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackLayout x:Name="stackLayout1" VerticalOptions="Center" Spacing="20">
+            <Label Text="Welcome to OAK Academy" TextColor="Black"
+                   HorizontalOptions="Center"/>
+            <BoxView Color="Gray" HeightRequest="1" WidthRequest="100" 
+                     HorizontalOptions="Center"/>
+            <Image Source="OakAcademy.png"/>
+        </StackLayout>
+        
+        <StackLayout x:Name="stackLayout2" Grid.Row="1">
+            <Entry Placeholder="Username"></Entry>
+            <Entry Placeholder="Password" IsPassword="True"></Entry>
+
+            <StackLayout Orientation="Horizontal" Margin="0,0,0,20">
+                <CheckBox Color="Accent"/>
+                <Label Text="Remember me" FontSize="Small" VerticalTextAlignment="Center"/>
+            </StackLayout>
+
+            <Button Text="LOGIN" BackgroundColor="Accent" TextColor="White"
+                    FontSize="Large"></Button>
+
+            <Label HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Not a member? "/>
+                        <Span Text="Sign up now" TextDecorations="Underline"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

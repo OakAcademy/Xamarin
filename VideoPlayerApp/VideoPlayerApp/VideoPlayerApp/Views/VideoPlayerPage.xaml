@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="VideoPlayerApp.Views.VideoPlayerPage"
+             xmlns:controls="clr-namespace:VideoPlayerApp.CustomControls;assembly=VideoPlayerApp"
+             Title="Video Player">
+    
+    <ContentPage.Content>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            
+            <controls:VideoPlayer x:Name="videoPlayer" BackgroundColor="Black"/>
+            <Button BackgroundColor="Transparent" Clicked="Button_Clicked">
+                <Button.Triggers>
+                    <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference videoPlayer}, Path=Status}"
+                                 Value="{x:Static controls:PlayerStatus.Paused}">
+                        <Setter Property="ImageSource" Value="PlayButton.png"></Setter>
+                    </DataTrigger>
+                </Button.Triggers>
+            </Button>
+
+            <StackLayout Grid.Row="1" Orientation="Horizontal" BindingContext="{x:Reference videoPlayer}" 
+                         BackgroundColor="Gainsboro" Padding="10">
+                <Label Text="{Binding Position, StringFormat='{0:hh\\:mm\\:ss}'}" TextColor="Black" VerticalTextAlignment="Center"/>
+                <controls:MySlider Duration="{Binding Duration}" Position="{Binding Position}" HorizontalOptions="FillAndExpand"
+                                   MaximumTrackColor="Blue" MinimumTrackColor="Blue"/>
+                <Label Text="{Binding Duration, StringFormat='{0:hh\\:mm\\:ss}'}" TextColor="Black" VerticalTextAlignment="Center"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

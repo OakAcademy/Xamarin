@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinLayoutsApp.Views.StackPage1">
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="YellowGreen" Padding="50" Spacing="30">
+            <StackLayout Orientation="Horizontal" BackgroundColor="Yellow">
+                <Button Text="Button 1"></Button>
+                <Button Text="Button 2"></Button>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" BackgroundColor="Red" Padding="10" 
+                         VerticalOptions="FillAndExpand">
+                <Label Text="Label 1" TextColor="White" FontSize="Large"></Label>
+                <Label Text="Label 2" TextColor="White" FontSize="Large"
+                       HorizontalOptions="EndAndExpand"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="Blue" 
+                         >
+                <Button Text="Button 3"></Button>
+                <Button Text="Button 4"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

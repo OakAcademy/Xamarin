@@ -1,0 +1,14 @@
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\bin\Debug\netstandard2.0\SettingsPageApp.deps.json
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\bin\Debug\netstandard2.0\SettingsPageApp.dll
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\bin\Debug\netstandard2.0\SettingsPageApp.pdb
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\CustomCells\CustomViewCell.xaml.g.cs
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.AssemblyInfo.cs
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.dll
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\SettingsPageApp.pdb
+D:\OakAcademyProjects\SettingsPageApp\SettingsPageApp\SettingsPageApp\obj\Debug\netstandard2.0\Views\SelectCurrencyPage.xaml.g.cs

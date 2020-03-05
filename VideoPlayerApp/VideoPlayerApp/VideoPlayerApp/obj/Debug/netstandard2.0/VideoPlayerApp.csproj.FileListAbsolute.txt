@@ -1,0 +1,15 @@
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\bin\Debug\netstandard2.0\VideoPlayerApp.deps.json
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\bin\Debug\netstandard2.0\VideoPlayerApp.dll
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\bin\Debug\netstandard2.0\ref\VideoPlayerApp.dll
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\bin\Debug\netstandard2.0\VideoPlayerApp.pdb
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\VideoPlayerApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\Views\VideoListPage.xaml.g.cs
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\VideoPlayerApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\VideoPlayerApp.AssemblyInfo.cs
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\VideoPlayerApp.dll
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\ref\VideoPlayerApp.dll
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\VideoPlayerApp.pdb
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\VideoPlayerApp\VideoPlayerApp\VideoPlayerApp\obj\Debug\netstandard2.0\Views\VideoPlayerPage.xaml.g.cs

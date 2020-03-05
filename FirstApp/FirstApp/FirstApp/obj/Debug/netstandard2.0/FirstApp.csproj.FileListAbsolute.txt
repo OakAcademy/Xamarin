@@ -1,0 +1,11 @@
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+D:\OakAcademyProjects\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb

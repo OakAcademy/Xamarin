@@ -1,0 +1,15 @@
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\bin\Debug\netstandard2.0\XamarinLayoutsApp.deps.json
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\bin\Debug\netstandard2.0\XamarinLayoutsApp.dll
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\bin\Debug\netstandard2.0\XamarinLayoutsApp.pdb
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\Views\StackPage1.xaml.g.cs
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.dll
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\XamarinLayoutsApp.pdb
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\Views\GridPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\Views\AbsolutePage1.xaml.g.cs
+D:\OakAcademyProjects\XamarinLayoutsApp\XamarinLayoutsApp\XamarinLayoutsApp\obj\Debug\netstandard2.0\Views\RalativePage1.xaml.g.cs

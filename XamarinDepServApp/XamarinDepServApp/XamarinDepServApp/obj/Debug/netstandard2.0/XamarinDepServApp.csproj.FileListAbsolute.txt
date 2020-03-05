@@ -1,0 +1,13 @@
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\bin\Debug\netstandard2.0\XamarinDepServApp.deps.json
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\bin\Debug\netstandard2.0\XamarinDepServApp.dll
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\bin\Debug\netstandard2.0\ref\XamarinDepServApp.dll
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\bin\Debug\netstandard2.0\XamarinDepServApp.pdb
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamarinDepServApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamarinDepServApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamarinDepServApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamarinDepServApp.dll
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\ref\XamarinDepServApp.dll
+D:\OakAcademyProjects\XamarinDepServApp\XamarinDepServApp\XamarinDepServApp\obj\Debug\netstandard2.0\XamarinDepServApp.pdb

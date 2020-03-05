@@ -1,0 +1,13 @@
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\bin\Debug\netstandard2.0\XamarinElementsApp.deps.json
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\bin\Debug\netstandard2.0\XamarinElementsApp.dll
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\bin\Debug\netstandard2.0\XamarinElementsApp.pdb
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\Views\ElementsPage1.xaml.g.cs
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.dll
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\XamarinElementsApp.pdb
+D:\OakAcademyProjects\XamarinElementsApp\XamarinElementsApp\XamarinElementsApp\obj\Debug\netstandard2.0\Views\ElementsPage3.xaml.g.cs

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SettingsPageApp.Views.SelectCurrencyPage"
+             Title="Currency">
+    
+    <ContentPage.Content>
+        <TableView>
+            <TableRoot>
+                <TableSection>
+                    <TextCell Text="GBP" Tapped="TextCell_Tapped"/>
+                    <TextCell Text="USD" Tapped="TextCell_Tapped"/>
+                    <TextCell Text="TRY" Tapped="TextCell_Tapped"/>
+                    <TextCell Text="EUR" Tapped="TextCell_Tapped"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinTableViewApp.Views.Page1">
+    <ContentPage.Content>
+        <TableView Intent="Menu">
+            <TableView.Root>
+                <TableSection Title="Title">
+                    <TextCell Text="TextCell Text" Detail="TextCell Detail"></TextCell>
+                    <TextCell Text="TextCell Text2" Detail="TextCell Detail2"
+                              TextColor="Red" DetailColor="Black"></TextCell>
+                    
+                    <SwitchCell Text="This is a SwitchCell" OnColor="Blue"/>
+
+                    <EntryCell Label="Name" Placeholder="Enter your name" 
+                               LabelColor="Red"/>
+
+                    <ImageCell ImageSource="OakAcademy.png" Text="Oak Academy"
+                               Detail="Course"></ImageCell>
+
+                    <ViewCell>
+                        <Label Text="Label" VerticalTextAlignment="Center" 
+                               HorizontalTextAlignment="Center"
+                               FontSize="Large"></Label>
+                    </ViewCell>
+
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="This is a Label" 
+                                   VerticalTextAlignment="Center"
+                                   TextColor="Green" FontSize="Medium"/>
+                            <Button Text="Click Here"></Button>
+                            <CheckBox></CheckBox>
+                        </StackLayout>
+                    </ViewCell>
+                    
+                </TableSection>
+            </TableView.Root>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

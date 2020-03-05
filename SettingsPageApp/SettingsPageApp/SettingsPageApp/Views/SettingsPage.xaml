@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SettingsPageApp.Views.SettingsPage"
+             xmlns:customCells="clr-namespace:SettingsPageApp.CustomCells;assembly=SettingsPageApp"
+             Title="Settings" Padding="10">
+    
+    <ContentPage.Content>
+        <TableView>
+            <TableRoot>
+                <TableSection Title="Account">
+                    <ViewCell>
+                        <Entry Placeholder="Username"/>
+                    </ViewCell>
+                </TableSection>
+
+                <TableSection Title="Notification">
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Notifications" VerticalTextAlignment="Center" FontSize="Medium"/>
+                            <Switch x:Name="switchNotify" HorizontalOptions="EndAndExpand"/>
+                        </StackLayout>
+                    </ViewCell>
+                    <customCells:CustomViewCell Text="Notification tone" Detail="Default" BindingContext="{x:Reference switchNotify}"
+                                                IsEnabled="{Binding IsToggled}"/>
+                    <customCells:CustomViewCell Text="Vibration" Detail="Long" BindingContext="{x:Reference switchNotify}"
+                                                IsEnabled="{Binding IsToggled}"/>
+                </TableSection>
+
+                <TableSection Title="General">
+                    <customCells:CustomViewCell x:Name="currencyCell" Text="Currency" Detail="GBP" Tapped="CustomViewCell_Tapped"/>
+                </TableSection>
+
+                <TableSection Title=" ">
+                    <customCells:CustomViewCell Text="Support"/>
+                    <customCells:CustomViewCell Text="About"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

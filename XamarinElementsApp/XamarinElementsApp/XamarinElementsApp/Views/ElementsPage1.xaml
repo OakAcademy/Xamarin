@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinElementsApp.Views.ElementsPage1">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Paint to Red" TextColor="White" BackgroundColor="Blue" BorderWidth="5" CornerRadius="10"
+                    Clicked="Button_Clicked"></Button>
+            <Label Text="Welcome to Oak Academy" TextColor="Red" FontSize="Medium" HorizontalTextAlignment="Center"></Label>
+            <Entry x:Name="entry" Placeholder="Name" PlaceholderColor="Pink" TextColor="Blue" Keyboard="Text" 
+                   BindingContext="{x:Reference slider}" FontSize="{Binding Value}"></Entry>
+            <Editor x:Name="editor" Placeholder="About" FontFamily="Arial" FontSize="16" FontAttributes="Italic" HeightRequest="200"></Editor>
+            <SearchBar Placeholder="Search" MaxLength="1" TextChanged="SearchBar_TextChanged"></SearchBar>
+            <Switch OnColor="Green" IsToggled="True" Toggled="Switch_Toggled" HorizontalOptions="Center"></Switch>
+            <CheckBox Color="Green" CheckedChanged="CheckBox_CheckedChanged" HorizontalOptions="Center"></CheckBox>
+            <Slider x:Name="slider" Maximum="48" Minimum="12" Value="24" MinimumTrackColor="Orange"></Slider>
+            <Stepper Maximum="48" Minimum="12" Value="24" ValueChanged="Stepper_ValueChanged"></Stepper>
+            <BoxView Color="Yellow" HeightRequest="2"></BoxView>
+            <BoxView Color="Red" CornerRadius="20"></BoxView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

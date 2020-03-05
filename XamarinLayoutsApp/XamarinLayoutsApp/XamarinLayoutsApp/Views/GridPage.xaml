@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamarinLayoutsApp.Views.GridPage">
+    
+    <ContentPage.Content>
+        <Grid ColumnSpacing="20" RowSpacing="10" Padding="20">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Text="0, 0" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Red" TextColor="White"/>
+            <Label Grid.Row="0" Grid.Column="1" Text="0, 1" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Yellow" TextColor="White"/>
+            <Label Grid.Row="0" Grid.Column="2" Text="0, 2" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Blue" TextColor="White"/>
+            
+            <Label Grid.Row="1" Grid.Column="0" Text="1, 0" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Green" TextColor="White"/>
+
+            <Label Grid.Row="1" Grid.Column="1" Text="1, 1" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Orange" TextColor="White"/>
+
+            <Label Grid.Row="1" Grid.Column="2" Text="1, 2" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Purple" TextColor="White"/>
+
+            
+            <Label Grid.Row="2" Grid.Column="0" Text="2, 0" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Fuchsia" TextColor="White"/>
+
+            <Label Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Text="2, 1" FontSize="28" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" BackgroundColor="Navy" TextColor="White"/>
+
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

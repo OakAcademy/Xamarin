@@ -1,0 +1,14 @@
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\bin\Debug\netstandard2.0\XamarinTableViewApp.deps.json
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\bin\Debug\netstandard2.0\XamarinTableViewApp.dll
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\bin\Debug\netstandard2.0\XamarinTableViewApp.pdb
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.AssemblyInfo.cs
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.dll
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.pdb
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\Views\CustomViewCell.xaml.g.cs
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\Views\TableViewTestPage.xaml.g.cs
+D:\OakAcademyProjects\XamarinTableViewApp\XamarinTableViewApp\XamarinTableViewApp\obj\Debug\netstandard2.0\XamarinTableViewApp.csprojAssemblyReference.cache

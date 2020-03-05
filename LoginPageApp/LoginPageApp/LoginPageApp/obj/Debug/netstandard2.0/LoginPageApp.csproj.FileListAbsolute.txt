@@ -1,0 +1,12 @@
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\bin\Debug\netstandard2.0\LoginPageApp.deps.json
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\bin\Debug\netstandard2.0\LoginPageApp.dll
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\bin\Debug\netstandard2.0\LoginPageApp.pdb
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.csprojAssemblyReference.cache
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.csproj.CoreCompileInputs.cache
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.AssemblyInfoInputs.cache
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.AssemblyInfo.cs
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.dll
+D:\OakAcademyProjects\LoginPageApp\LoginPageApp\LoginPageApp\obj\Debug\netstandard2.0\LoginPageApp.pdb
